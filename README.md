@@ -4,7 +4,8 @@
 - 🧑🏽‍💻 I’m currently majoring in information systems 3/4
 - 🔭 I’m currently studing and working with back-end
 - 🌱 I’m currently learning about front-end and tests
-- ⚡ Fun fact: I like acoustic music 
+- ⚡ Fun fact: I like acoustic music
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Robson019&color=green" alt="prof_views" /> </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <div>
@@ -28,9 +29,18 @@
 </div>
   
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
- 
-<div>
-  <a href="https://instagram.com/robson.g0" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:robsongominho064@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/robson-gominho-93b872242/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+<p align="left" style="background:green">
+<a href="mailto:robsongominho064@gmail.com" target="_blank" rel="external">
+ <img align="center" src="https://img.shields.io/badge/-Robson-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+<a href="https://instagram.com/robson.g0" target="_blank" rel="external">
+ <img align="center" src="https://img.shields.io/badge/-Robson.g0-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/robson-gominho-93b872242/" target="_blank" rel="external">
+  <img align="center" src="https://img.shields.io/badge/-Robson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
+
+  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+  <img align="center" height="195em" widht="195em" src="images/snoopy_sleep.gif" alt="snoopy_sleep_gif" />
