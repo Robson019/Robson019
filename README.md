@@ -1,4 +1,4 @@
-### Hi, I'm a technology enthusiast 😊
+### <img align="center" height="40em" widht="40em" style="border-radius:100%" src="images/snoopy_sleep.gif" alt="snoopy_sleep_gif" /> Hi, I'm a technology enthusiast
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 - 🧑🏽‍💻 I’m currently majoring in information systems 3/4
@@ -41,6 +41,3 @@
   <img align="center" src="https://img.shields.io/badge/-Robson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
-
-  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-  <img align="center" height="195em" widht="195em" src="images/snoopy_sleep.gif" alt="snoopy_sleep_gif" />
