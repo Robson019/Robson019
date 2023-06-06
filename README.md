@@ -2,8 +2,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 - 🧑🏽‍💻 I’m currently majoring in information systems 3/4
-- 🔭 I’m currently studing and working with back-end
-- 🌱 I’m currently learning about front-end and tests
+- 🌱 I’m currently learning about back-end, front-end and tests
 - ⚡ Fun fact: I like acoustic music
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Robson019&color=green" alt="prof_views" /> </p>
 
