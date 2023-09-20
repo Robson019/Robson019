@@ -9,7 +9,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <div>
   <a href="https://github.com/Robson019">
-  <!--<img height="195em" src="https://github-readme-stats.vercel.app/api?username=Robson019&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Robson019&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robson019&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
