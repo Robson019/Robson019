@@ -1,4 +1,8 @@
-### <img align="center" height="40em" widht="40em" style="border-radius:100%" src="images/snoopy_sleep.gif" alt="snoopy_sleep_gif" /> Hi I'm a technology enthusiast
+<div align="center">
+  <img height="100em" widht="100em" src="images/snoopy_sleep.gif" alt="snoopy_sleep_gif" />
+  <p>Hi I'm a technology enthusiast</p>
+</div>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 - 🧑🏽‍💻 I’m currently majoring in information systems 3/4
