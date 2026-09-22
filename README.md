@@ -5,7 +5,8 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-- 🧑🏽‍💻 I’m currently majoring in information systems 4/4
+- 🧑🏽‍💻 I have a degree in information systems
+- 📚 Currently pursuing a postgraduate degree in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning about back-end, front-end, software architeture, tests and english
 - ⚡ Fun fact: I like acoustic music
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Robson019&color=green" alt="prof_views" /> </p>
